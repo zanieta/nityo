@@ -1,0 +1,19 @@
+Number 1
+1. Extract text by blocks in sequencial order with each paragraph a separate line and text in order. 
+2. Create output file using excel
+3. General solution
+4. Create github repo, upload files and create 'requirements.txt' and share link.
+
+Number 2
+1. Detect and Locate tables inside a page using DNN, then parse table to extract a dataframe that should not lose any information and structure of the table. 
+2. Output should be in excel file containing the extracted table.
+3. Create github repo, upload files and create 'requirements.txt' and share link.
+
+
+Number 3
+
+1. Train a named entity recognition model to identify the various entities present in the database. 
+2. Final output should be a text string and the program should output all the named entities along with the entity text in dictionary format.
+3. Create github repo, upload files and create 'requirements.txt' and share link. 
+Note: Code should either use argparse to pass text as input or should be callable function in which the text can be passed and it return
+the entities.
